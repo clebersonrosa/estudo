@@ -1,4 +1,5 @@
 /* Aula inicial :D */
+/*RESET CSS */
 *{
   margin: 0;
   padding: 0;
@@ -16,6 +17,7 @@ header {
     display: flex;
 }
 .menu{
+  position: fixed;
   background-color: white;
 }
 .menu ul {
