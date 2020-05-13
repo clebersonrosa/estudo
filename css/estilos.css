@@ -11,7 +11,7 @@ body{
   font-size:80%;
   height: 100vh;
 }
-.header {
+header {
     height: 100vh;
     display: flex;
 }
