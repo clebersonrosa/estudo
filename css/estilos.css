@@ -11,7 +11,9 @@ body{
   font-size:80%;
   height: 100vh;
 }
-
+.header {
+  height: 100vh
+}
 .menu{
   background-color: white;
 }
@@ -44,3 +46,4 @@ a:hover {
   height: 180px;
   width: 180px;
 }
+
